@@ -1,6 +1,6 @@
 import Introduction from "../components/introduction/Introduction";
 import Profile from "../components/profile/Profile";
-import Skills from "../components/skills/Skills";
+import Skills from "../components/Skills/Skills";
 import WorkProcess from "../components/workProcess/WorkProcess";
 import Portfolio from "../components/portfolio/Portfolio";
 import Profession from "../components/profession/Profession";
